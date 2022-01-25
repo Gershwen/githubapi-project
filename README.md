@@ -1,3 +1,48 @@
+# Frontend Mentor - GitHub user search app solution
+
+This is a solution to the [GitHub user search app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+This is a frontend mentore challenge to build a Web Search API for users on Github. It has both day and night mode settings.
+
+### Screenshot
+
+- Day mode:
+
+- Dark mode:
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+### Built with
+
+- [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
+
+## Author
+
+- Website - [Gershwen McPherson](https://gershwen.github.io/Gershwen_McPherson_Resume/)
+- Frontend Mentor - [@gershwen](https://www.frontendmentor.io/profile/gershwen)
+
+## Acknowledgments
+
+1. Frontend mentor for app design
+2. Coding with Chaim for dark mode assistance
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
