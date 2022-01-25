@@ -28,7 +28,7 @@ This is a frontend mentore challenge to build a Web Search API for users on Gith
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://githubapi-project.vercel.app/
 
 ### Built with
 
