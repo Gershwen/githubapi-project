@@ -19,7 +19,12 @@ This is a frontend mentore challenge to build a Web Search API for users on Gith
 
 - Day mode:
 
+![Screenshot 2022-01-25 12 50 55](https://user-images.githubusercontent.com/76742941/150971155-5fae3867-e141-4f42-aad7-50e7994489bc.png)
+
 - Dark mode:
+
+![Screenshot 2022-01-25 12 51 02](https://user-images.githubusercontent.com/76742941/150971213-cb2c3725-e599-4a7b-97d3-cc4769e4bb72.png)
+
 
 ### Links
 
